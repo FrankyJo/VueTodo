@@ -19,6 +19,7 @@ module.exports = {
     'no-debugger': 'off',
     'space-before-function-paren': 'off',
     'object-curly-spacing': 'off',
-    'indent': 'off'
+    'indent': 'off',
+    'kebab-case': 'off'
   }
 }
